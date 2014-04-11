@@ -1,8 +1,9 @@
-dummy (1.0-2) UNRELEASED; urgency=medium
+dummy (1.0-2) unstable; urgency=medium
 
   * Next release.
+  * Ignoring generated files.
 
- -- Vincent Smeets <Vincent.VSmeets@GMail.com>  Sun, 06 Apr 2014 16:37:15 +0200
+ -- Vincent Smeets <Vincent.VSmeets@GMail.com>  Fri, 11 Apr 2014 19:31:52 +0200
 
 dummy (1.0-1) unstable; urgency=low
 
