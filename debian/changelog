@@ -7,6 +7,6 @@ dummy (1.0-2) unstable; urgency=medium
 
 dummy (1.0-1) unstable; urgency=low
 
-  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+  * Initial release.
 
  -- Vincent Smeets <Vincent.VSmeets@GMail.com>  Sun, 06 Apr 2014 16:31:10 +0200
