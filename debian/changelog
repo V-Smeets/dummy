@@ -1,3 +1,13 @@
+dummy (1.0-3) unstable; urgency=medium
+
+  * Ignoring generated files.
+  * Update changelog for 1.0-2 release
+  * defiled a homepage.
+  * Fixed lintian errors.
+  * Corrected the copyright file.
+
+ -- Vincent Smeets <Vincent.VSmeets@GMail.com>  Sat, 12 Apr 2014 17:23:58 +0200
+
 dummy (1.0-2) unstable; urgency=medium
 
   * Next release.
