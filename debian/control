@@ -1,15 +1,14 @@
 Source: dummy
-Section: unknown
+Section: misc
 Priority: optional
 Maintainer: Vincent Smeets <Vincent.VSmeets@GMail.com>
 Build-Depends: debhelper (>= 8.0.0)
-Standards-Version: 3.9.4
-Homepage: <insert the upstream URL, if relevant>
-#Vcs-Git: git://git.debian.org/collab-maint/dummy.git
-#Vcs-Browser: http://git.debian.org/?p=collab-maint/dummy.git;a=summary
+Standards-Version: 3.9.5
+Homepage: http://www.smeets.org/
 
 Package: dummy
 Architecture: all
 Depends: ${misc:Depends}
-Description: <insert up to 60 chars description>
- <insert long description, indented with spaces>
+Description: Just a dummy package
+ This is an empty package. It only shows the way the
+ {pre,post}{inst,rm} scripts are called.
